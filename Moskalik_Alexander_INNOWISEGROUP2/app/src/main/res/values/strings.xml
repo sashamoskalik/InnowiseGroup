@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InnowiseGroup</string>
+    <string name="text">Квадраты чисел Фибоначчи</string>
+    <string name="edit">Введите N</string>
+    <string name="button">Пуск</string>
+    <string name="two">Квадраты нечетных чисел</string>
+    <string name="third">Палиндромы</string>
+</resources>
